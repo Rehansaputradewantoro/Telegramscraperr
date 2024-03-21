@@ -1,6 +1,6 @@
 #!/bin/env python3
-# Modified by @AbirHasan2005
-# Telegram Group: http://t.me/linux_repo
+# Modified by @Revans505
+# Telegram Group: http://t.me/ZoneDangerSex
 # Please give me credits if you use any codes from here.
 
 
@@ -25,7 +25,7 @@ def banner():
 {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
 
             Version: 1.3
-     Modified by @AbirHasan2005
+     Modified by @Revans505
         """)
 
 cpass = configparser.RawConfigParser()
