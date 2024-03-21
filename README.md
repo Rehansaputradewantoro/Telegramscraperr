@@ -1,4 +1,4 @@
-# TelegramScraper ([Read Below](https://github.com/AbirHasan2005/TelegramScraper#use-paid-script))
+# TelegramScraper ([Read Below](https://github.com/Rehansaputradewantoro/Telegramscraperr#use-paid-script))
 It can scrape and add members from one chat to another chat using some Telegram accounts. Also it can scrape hidden members of group going through group messages. Bot has very user-friendly interface.
 
 ## Telegram Group:
@@ -16,7 +16,7 @@ It can scrape and add members from one chat to another chat using some Telegram 
 
 $ `apt install git -y`
 
-$ `git clone https://github.com/AbirHasan2005/TelegramScraper`
+$ `git clone https://github.com/Rehansaputradewantoro/Telegramscraperr`
 
 $ `cd TelegramScraper`
 
